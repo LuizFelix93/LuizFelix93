@@ -1,20 +1,28 @@
-<h1 align="center">Olá, Eu Sou Luiz Felix</h1>
+<h1 align="center">👋 Olá, eu sou o Luiz Felix</h1>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" height="350" width="350" />
 </div>
+ 
+  👋 Olá, eu sou o Luiz Felix da Silva Filho
 
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas
+  
+  📍 Paranaguâ - PR
 ###
-<div align="center">
-  <a href="linkedin.com/in/luiz-felix0" target="_blank">
-  <a/> 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+🚀 Tecnologias que estudo:
+Linguagens: Logica da programação, Html, Css
+Ferramentas: GitHub
 
+📌 Meus Projetos
+
+🔹 Em breve você verá meus projetos aqui!
+
+📫 Vamos nos conectar no [LinkedIn](www.linkedin.com/in/luiz-felix0)
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuizFelix93&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=LuizFelix93&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="80" alt=""  />
   <img src="https://github-profile-trophy.vercel.app?username=LuizFelix93&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
