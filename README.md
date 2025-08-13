@@ -10,12 +10,7 @@
   
   📍 Paranaguâ - PR
 ###
-🚀 Tecnologias que estudo:
-
-🔹Linguagens,
-Logica da programação,
-Html, 
-Css
+💻 Construindo minha base em lógica de programação, HTML, CSS, JavaScript e Git.
   
   📌 Meus Projetos:
 
