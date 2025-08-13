@@ -21,7 +21,7 @@ Css
 
 🔹 Em breve você verá meus projetos aqui!
 
-📫 Vamos nos conectar no [LinkedIn](www.linkedin.com/in/luiz-felix0)
+📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/luiz-felix0)
 ###
 
 <div align="center">
