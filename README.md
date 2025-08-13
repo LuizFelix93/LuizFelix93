@@ -11,10 +11,13 @@
   📍 Paranaguâ - PR
 ###
 🚀 Tecnologias que estudo:
-Linguagens: Logica da programação, Html, Css
-Ferramentas: GitHub
 
-📌 Meus Projetos
+🔹Linguagens,
+Logica da programação,
+Html, 
+Css
+  
+  📌 Meus Projetos:
 
 🔹 Em breve você verá meus projetos aqui!
 
@@ -22,7 +25,7 @@ Ferramentas: GitHub
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuizFelix93&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="80" alt=""  />
+  <img src="https://streak-stats.demolab.com?user=LuizFelix93&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt=""  />
   <img src="https://github-profile-trophy.vercel.app?username=LuizFelix93&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
