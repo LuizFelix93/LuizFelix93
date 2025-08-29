@@ -14,7 +14,7 @@
   
   📌 Meus Projetos:
 
-🔹 Em breve você verá meus projetos aqui!
+🔹 Lista de Tarefas Simples ( Html )
 
 📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/luiz-felix0)
 ###
